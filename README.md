@@ -6,7 +6,7 @@ Please conduct an analysis of your choice to elucidate a biological phenomenon. 
 
 You will be provided with metadata and gene count matrices of various file sizes to accommodate your individual computational capacity. Please let us know if you need a smaller dataset prepared. 
 
-***Included cell types***: Mammary epithelial, Bone marrow (all)
+**Included cell types**: Mammary epithelial, Bone marrow (all)
 
 ### Provided gene count CSV files:
 - **ts_data_counts_all**: All cells (~18k), all genes with >100 detected reads (~30k)
